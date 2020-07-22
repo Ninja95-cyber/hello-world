@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Khosi here, I have nothing else better to do than to write code and develop stuff.
+I like php,python and learning to learn working on Laravel framework.
